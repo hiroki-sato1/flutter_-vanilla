@@ -1,1 +1,1 @@
-# flutter_-vanilla
+# flutter_vanilla
